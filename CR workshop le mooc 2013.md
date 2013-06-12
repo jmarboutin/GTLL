@@ -1,7 +1,5 @@
 Workshop LeMOOC 30 juin 2013
 
-
-
 # Synthèse
 
 MOOC est l’acronyme anglais de “Massive Open Online Courses”. Il désigne des
@@ -478,13 +476,12 @@ Un MOOC GdP 2 ouvre le 16 septembre prochain et un MOOC bilingue RdP
 
 Sur cette intervention “concevoir et animer un MOOC” :
 
-  1.  [les diapos](http://goo.gl/QOPMH), et [la vidéo](http://youtu.be/JKTlhBfq7Yo)
-  2. [Mes autres contributions sur les MOOC](http://gestiondeprojet.pm/mes-contributions-sur-les-mooc/)
   
 <i class="icon-picture"></i> [Slides de Remi Bachelet (PDF)](/static/pdf/lemooc2013-centrale-lille-bachelet.pdf)
 
 <i class='icon-play'></i> [Video](http://www.irill.org/videos/mooc-2013/Remi_Bachelet-Conception_et_gestion_d_un_MOOC.webm)
 
+[Autres contributions de Remi Bachelet sur les MOOC](http://gestiondeprojet.pm/mes-contributions-sur-les-mooc/)
 
 ### 11 - Hubert Kadima ([EISTI](http://eisti.eu/)): Le MOOC du projet IDEFI PLACIS (Plateforme Collaborative en Ingénierie Système)
 
@@ -549,6 +546,6 @@ investissements en temps nécessaires.
 Remerciements:
 
 Le GT LL de Systematic remercie tout particulièrement Mia Ogouchi, Inria,
-projet uTOP ([https://utop.inria.fr/](https://utop.inria.fr/)) pour sa
-contribution à la rédaction de ces actes, ainsi que Sylvestre Ledru (IRILL)
-pour la captation video ([www.irill.org](http://www.irill.org)).
+[projet uTOP](https://utop.inria.fr/) pour sa
+contribution à la rédaction de ces actes, ainsi que Sylvestre Ledru [IRILL](http://www.irill.org)
+pour la captation video.
