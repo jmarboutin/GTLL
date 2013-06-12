@@ -25,7 +25,7 @@ dimensions des MOOC :
 
   2. Aspects pédagogiques et sociaux  
     * Mathieu Cisel ([ENS Cachan](http://www.stef.ens-cachan.fr/)): MOOC: quelles pédagogies pour quels objectifs?
-    * Christian Queinec ([Université Paris 6](http://www.upmc.fr/)): La correction automatisée dans les MOOC
+    * Christian Queinnec ([Université Paris 6](http://www.upmc.fr/)): La correction automatisée dans les MOOC
 
   3. Aspects technologiques  
     * Kirsten Winkler ([Winkler Media](http://www.winklermedia.com/) /[Edukwest](http://www.edukwest.com/)) : Keynote
@@ -216,7 +216,7 @@ Une deuxième édition du MOOC GdP sera lancée le 16 septembre 2013.
 
 <i class='icon-play'></i> [Video](http://www.irill.org/videos/mooc-2013/Mathieu_Cisel-quelles_pedagogies_pour_quels_objectifs.webm)
 
-### 5.  Christian Queinec ([Université Paris 6](http://www.upmc.fr/)): La correction automatisée dans les MOOC
+### 5.  Christian Queinnec ([Université Paris 6](http://www.upmc.fr/)): La correction automatisée dans les MOOC
 
 L’UPMC a mis en œuvre depuis 2001 un système de correction automatisée des
 programmes de ses élèves. Des deux expérimentations réalisées par
@@ -246,9 +246,9 @@ concepteurs de cours, mais plus d’animateurs et d’investissements pour créer
 des cours attractifs. Les questions du calcul du temps de service et celle de
 la reconnaissance des auteurs seront également complexifiées.
 
-<i class="icon-picture"></i> [Slides de Christian Queinec (PDF)](/static/pdf/lemooc2013-upmc-queinec.pdf)
+<i class="icon-picture"></i> [Slides de Christian Queinnec (PDF)](/static/pdf/lemooc2013-upmc-Queinnec.pdf)
 
-<i class='icon-play'></i> [Video](http://www.irill.org/videos/mooc-2013/Christian_Queinec-La_correction_automatisee_dans_les_MOOC.webm)
+<i class='icon-play'></i> [Video](http://www.irill.org/videos/mooc-2013/Christian_Queinnec-La_correction_automatisee_dans_les_MOOC.webm)
 
 ### 6. Keynote d’ouverture à la deuxième session de l’après-midi Kirsten Winkler ([Winkler Media](http://www.winklermedia.com/) /[Edukwest](http://www.edukwest.com/))
 
