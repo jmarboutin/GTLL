@@ -2,7 +2,7 @@ Workshop LeMOOC 30 juin 2013
 
 # Synthèse
 
-MOOC est l’acronyme anglais de “Massive Open Online Courses”. Il désigne des
+MOOC est l’acronyme anglais de “Massive Open Online Courses”. Ce terme désigne ainsi des
 cours en ligne ouverts à tous sur internet et pouvant, de ce fait, attirer
 plusieurs milliers voire plusieurs centaines de milliers de participants, dans
 certains cas.
@@ -498,7 +498,7 @@ antérieurs de eLearning, reposant sur la technologie Cloud, qui avaient été
 mis en oeuvre en Ile de France.
 
 
-La forme du MOOC a été choisie comme noyau fonctionnel. C’est la solution
+Dans cet exposé, Hubert Kadima détaille la forme de la plateforme de MOOC qui a été choisie comme noyau fonctionnel. C’est la solution
 Class2Go de Stanford, basée sur le framework Django, qui a été utilisée
 (l’Université de Stanford a récemment annoncé que cet outil allait fusionner
 avec la plate-forme Edx). La plate-forme développée est basée sur des outils
@@ -516,7 +516,7 @@ l’apprenant et le suivi permanent de l’évolution de ses connaissances par le
 biais d’un moteur sémantique de recommandation, la possibilité de
 collaboration en environnement social web 2.0, la facilitation de l’accès aux
 ressources et services pédagogiques (Cloud, accès mobile) et la création de
-scénarii pédagogiques. Au niveau de l’évaluation, des learnings analytics sont
+scénarii pédagogiques. Au niveau de l’évaluation, des learnings analytics sont aussi
 utilisées.
 
 <i class="icon-picture"></i> [Slides de Hubert Kadima (PDF)](/static/pdf/lemooc2013-eisti-kadima.pdf)
@@ -530,16 +530,14 @@ pôle Systematic, professeur à l’université Paris 7, et directeur de
 l’[IRILL](http://www.irill.org/) (Initiative de recherche et d’innovation sur
 le logiciel libre).
 
-Il a pointé la multiplicité des approches technologiques présentées durant
+En conclusion, Roberto Di Cosmo pointe la multiplicité des approches technologiques présentées durant
 l’évènement en distinguant notamment des approches “from scratch” et des
-approches de type “mashup technologique”. Par la suite, il a également
-souligné la difficulté du passage à l'échelle de ce type de plateforme web,
+approches de type “mashup technologique”. Par la suite, il souligne également la difficulté du passage à l'échelle de ce type de plateforme web,
 mais aussi des outils ou moyens mis en oeuvre pour la correction des exercices
 et la certification des apprenants.
 
-Roberto Di Cosmo a finalement conclu cette journée en soulignant l’envie, a
-priori partagée par de nombreux enseignants, de se lancer dans la construction
-de Moocs. A ce sujet, il a rappelé la nécessité de trouver des modèles
+Roberto Di Cosmo rappelle aussi à l'issue de ce workshop, l'envie à priori partagée par de nombreux enseignants, de se lancer dans la construction
+de Moocs, tout en pointant la nécessité de trouver des modèles
 d’incitation et de rémunération viables pour les enseignants au regard des
 investissements en temps nécessaires.
 
